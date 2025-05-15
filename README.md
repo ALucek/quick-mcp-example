@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alucek-quick-mcp-example-badge.png)](https://mseep.ai/app/alucek-quick-mcp-example)
+
 # Standardizing LLM Interaction with MCP Servers
 
 Model Context Protocol, or MCP, is [an open protocol that standardizes how applications provide context to LLMs](https://modelcontextprotocol.io/introduction). In other words it provides a unified framework for LLM based applications to connect to connect to data sources, get context, use tools, and execute standard prompts.
